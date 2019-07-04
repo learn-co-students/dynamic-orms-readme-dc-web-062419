@@ -1,3 +1,7 @@
+# It is unclear why this lab requires us to submit a pull request when we are not asked to make substantive changes; 
+# this is more of a read-me play-along and seems like our code would not be different.
+
+
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
 
